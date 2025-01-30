@@ -5,9 +5,10 @@ SCISSOR: Mitigating Semantic Bias through Cluster-Aware Siamese Networks for Rob
 Data sets
 ----
 All of the datasets we used are open-soursed.<br>
-Fever dataset: [https://fever.ai/dataset/adversarial.html](https://fever.ai/dataset/adversarial.html)<br>
-MNLI dataset: [https://paperswithcode.com/dataset/multinli](https://paperswithcode.com/dataset/multinli)<br>
-SNLI dataset: [https://paperswithcode.com/dataset/snli](https://paperswithcode.com/dataset/snli)<br>
+Yelp dataset: [https://business.yelp.com/data/resources/open-dataset/](https://business.yelp.com/data/resources/open-dataset/)<br>
+GYAFC dataset: [https://adapterhub.ml/explore/formality_classify/gyafc/](https://adapterhub.ml/explore/formality_classify/gyafc/)<br>
+Chest-XRay dataset: [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)<br>
+NotMNIST dataset: [https://www.kaggle.com/datasets/lubaroli/notmnist](https://www.kaggle.com/datasets/lubaroli/notmnist)<br>
 
 Dependencies
 ----
