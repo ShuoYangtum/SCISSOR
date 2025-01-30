@@ -30,5 +30,5 @@ To run our program, you can simply execute the siamese.py file located in the ro
 
 The directory of the files and some commonly used hyperparameters can be passed via the command line.<br> 
 
-Please note that hyperparameters used during training need to be manually adjusted by modifying the relevant sections of the siames.py code.<br> 
+Please note that hyperparameters used during training need to be manually adjusted by modifying the relevant sections of the siamese.py code.<br> 
 
