@@ -41,8 +41,9 @@ def main():
     model_name=args.model_name
     dataset_name=args.dataset_name
     tri_num_epochs=args.tri_num_epochs
-   cls_num_epochs=args.cls_num_epochs
-
+    cls_num_epochs=args.cls_num_epochs
+    
+    cluster_metod='markov' # markov or knn
     down_sampling=False
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -103,8 +104,6 @@ def main():
     images = torch.stack(images)
     labels = torch.tensor(labels)
     
-    
-    cluster_metod='knn'
     
     if cluster_metod=='markov':
         cluster_labels=cluster_images_markov(embeddings, knn_k=num_clusters, inflation=1.4)
