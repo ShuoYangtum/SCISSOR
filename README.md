@@ -17,12 +17,14 @@ Before running our code, please ensure that the following dependencies are met.<
 | Library  | Version |
 | ------------- | ------------- |
 | torch  | 2.3.0  |
+| torchvision  | 0.19.1  |
 | tokenizers  | 0.19.1  |
 | transformers  | 4.40.1  |
 | spacy  | 3.7.4  |
 | shap  | 0.46.0  |
 | sentence-transformers  | 3.0.1  |
-| openai  | 1.27.0  |
+| scikit-learn  | 1.4.2  |
+| markov-clustering  | 0.0.6  |
 
 Running
 ----
