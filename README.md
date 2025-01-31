@@ -21,7 +21,7 @@ Before running our code, please ensure that the following dependencies are met.<
 | tokenizers  | 0.19.1  |
 | transformers  | 4.40.1  |
 | spacy  | 3.7.4  |
-| shap  | 0.46.0  |
+| numpy  |  1.26.4  |
 | sentence-transformers  | 3.0.1  |
 | scikit-learn  | 1.4.2  |
 | markov-clustering  | 0.0.6  |
