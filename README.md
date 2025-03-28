@@ -1,6 +1,6 @@
 SCISSOR: Mitigating Semantic Bias through Cluster-Aware Siamese Networks for Robust Classification
 ====
-
+![Image text](https://github.com/ShuoYangtum/SCISSOR/unb.svg)
 
 Data sets
 ----
