@@ -1,6 +1,8 @@
 SCISSOR: Mitigating Semantic Bias through Cluster-Aware Siamese Networks for Robust Classification
 ====
 
+We used PCA to reduce the BERT embeddings of the Yelp dataset to two dimensions and visualized three clusters as follows. In the left image, the colors represent cluster labels, while in the right image, colors indicate task labels (positive/negative).
+
 <p align="center">
   <img src="https://github.com/ShuoYangtum/SCISSOR/blob/main/unb.svg" width="500"/>
   <img src="https://github.com/ShuoYangtum/SCISSOR/blob/main/unb_l.svg" width="500"/>
