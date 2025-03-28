@@ -2,8 +2,8 @@ SCISSOR: Mitigating Semantic Bias through Cluster-Aware Siamese Networks for Rob
 ====
 
 <p align="center">
-  <img src="https://github.com/ShuoYangtum/SCISSOR/blob/main/unb.svg" width="200"/>
-  <img src="https://github.com/ShuoYangtum/SCISSOR/blob/main/unb_l.svg" width="200"/>
+  <img src="https://github.com/ShuoYangtum/SCISSOR/blob/main/unb.svg" width="500"/>
+  <img src="https://github.com/ShuoYangtum/SCISSOR/blob/main/unb_l.svg" width="500"/>
 </p>
 
 
